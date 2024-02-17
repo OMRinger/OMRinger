@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OMRinger
 - 👀 I’m interested in ...making things better.
 - 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me ...androidextractions@gmail.com
 - 😄 Pronouns: ...Him
 - ⚡ Fun fact: ...Been on Air Force One
