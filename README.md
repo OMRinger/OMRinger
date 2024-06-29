@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...making things better.
 - 🌱 I’m currently learning everything.
 - 💞️ I’m looking to collaborate on python projects.
-- 📫 How to reach me ...androidextractions@gmail.com
+- 📫 How to reach me ... phillip@politefairchild.com
 - 😄 Pronouns: ...Him
 - ⚡ Fun fact: ...Wrote a book. Godmode Unlocking Your Creative Superpowers.
 
