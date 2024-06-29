@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me ...androidextractions@gmail.com
 - 😄 Pronouns: ...Him
-- ⚡ Fun fact: ...Been on Air Force One
+- ⚡ Fun fact: ...Wrote a book. Godmode Unlocking Your Creative Superpowers.
 
 <!---
 OMRinger/OMRinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
